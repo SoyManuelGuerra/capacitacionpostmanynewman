@@ -31,5 +31,5 @@ jobs:
       run: npm install -g newman
 
     - name: Run Newman
-      run: newman run Documentos/GitHub/capacitacionpostmanynewman/Simple\ Book.postman_collection.json
+      run: newman run Simple Book.postman_collection.json
 
