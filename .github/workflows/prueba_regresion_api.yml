@@ -31,4 +31,5 @@ jobs:
       run: npm install -g newman
 
     - name: Run Newman
-      run: newman run C:\Users\Soyma\OneDrive\Documentos\GitHub\capacitacionpostmanynewman\Simple Book.postman_collection.json
+      run: newman run C:\\Users\\Soyma\\OneDrive\\Documentos\\GitHub\\capacitacionpostmanynewman\\Simple Book.postman_collection.json
+
